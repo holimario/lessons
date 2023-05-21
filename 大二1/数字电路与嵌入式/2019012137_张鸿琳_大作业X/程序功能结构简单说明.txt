@@ -1,0 +1,7 @@
+在工程文件中的source文件夹中有多个文件：
+①OLED.h与OLED.c：包含OLED屏幕的各种控制函数
+②handle.h和handle.c：包含对块的各种操作判定和执行函数以及分数统计和刷新函数
+③sound.c和sound.h：包含播放音乐的各种函数和乐谱
+④main.c：主程序
+
+其余部分都由code warrior自动生成
