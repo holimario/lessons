@@ -1,0 +1,417 @@
+This is LuaTeX, Version 1.12.0 (MiKTeX 2.9.7300 64-bit)  (format=luatex 2020.4.25)  25 APR 2020 20:27
+ restricted system commands enabled.
+**未命名-1.tex
+(./未命名-1.tex
+! Undefined control sequence.
+l.1 \documentclass
+                [UTF8]{ctexart}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.2 \usepackage
+             {hyperref}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.3 \usepackage
+             {abstract}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.4 \usepackage
+             [margin=1in]{geometry}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.5 \usepackage
+             {graphicx}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.6 \begin
+        {document}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8 \title
+        {弦振动实验}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.9 \author
+         {2019012137  物理92  张鸿琳}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.10 \maketitle
+             
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.11 \begin
+         {abstract}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.12 ...曲线，验证了公式$T=2\pi\sqrt{\frac
+                                                  {m}{k}}$的正确性，通...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.17 \textbf
+          {Keywords:}弹簧性质，劲度系数，周期公式，最小二乘..
+.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+{
+l.17 \textbf{
+           Keywords:}弹簧性质，劲度系数，周期公式，最小二乘..
+.
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+{
+l.17 \textbf{
+           Keywords:}弹簧性质，劲度系数，周期公式，最小二乘..
+.
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+[1{C:/Users/惠普/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+Missing character: There is no 弦 (U+5F26) in font cmr10!
+Missing character: There is no 振 (U+632F) in font cmr10!
+Missing character: There is no 动 (U+52A8) in font cmr10!
+Missing character: There is no 实 (U+5B9E) in font cmr10!
+Missing character: There is no 验 (U+9A8C) in font cmr10!
+Missing character: There is no 物 (U+7269) in font cmr10!
+Missing character: There is no 理 (U+7406) in font cmr10!
+Missing character: There is no 张 (U+5F20) in font cmr10!
+Missing character: There is no 鸿 (U+9E3F) in font cmr10!
+Missing character: There is no 琳 (U+7433) in font cmr10!
+Missing character: There is no 本 (U+672C) in font cmr10!
+Missing character: There is no 实 (U+5B9E) in font cmr10!
+Missing character: There is no 验 (U+9A8C) in font cmr10!
+Missing character: There is no 目 (U+76EE) in font cmr10!
+Missing character: There is no 的 (U+7684) in font cmr10!
+Missing character: There is no 是 (U+662F) in font cmr10!
+Missing character: There is no 探 (U+63A2) in font cmr10!
+Missing character: There is no 究 (U+7A76) in font cmr10!
+Missing character: There is no 弹 (U+5F39) in font cmr10!
+Missing character: There is no 簧 (U+7C27) in font cmr10!
+Missing character: There is no 的 (U+7684) in font cmr10!
+Missing character: There is no 一 (U+4E00) in font cmr10!
+Missing character: There is no 些 (U+4E9B) in font cmr10!
+Missing character: There is no 性 (U+6027) in font cmr10!
+Missing character: There is no 质 (U+8D28) in font cmr10!
+Missing character: There is no ， (U+FF0C) in font cmr10!
+Missing character: There is no 包 (U+5305) in font cmr10!
+Missing character: There is no 括 (U+62EC) in font cmr10!
+Missing character: There is no 其 (U+5176) in font cmr10!
+Missing character: There is no 劲 (U+52B2) in font cmr10!
+Missing character: There is no 度 (U+5EA6) in font cmr10!
+Missing character: There is no 系 (U+7CFB) in font cmr10!
+Missing character: There is no 数 (U+6570) in font cmr10!
+Missing character: There is no 和 (U+548C) in font cmr10!
+Missing character: There is no 振 (U+632F) in font cmr10!
+Missing character: There is no 动 (U+52A8) in font cmr10!
+Missing character: There is no 特 (U+7279) in font cmr10!
+Missing character: There is no 性 (U+6027) in font cmr10!
+Missing character: There is no ， (U+FF0C) in font cmr10!
+Missing character: There is no 实 (U+5B9E) in font cmr10!
+Missing character: There is no 验 (U+9A8C) in font cmr10!
+Missing character: There is no 有 (U+6709) in font cmr10!
+Missing character: There is no 两 (U+4E24) in font cmr10!
+Missing character: There is no 个 (U+4E2A) in font cmr10!
+Missing character: There is no 主 (U+4E3B) in font cmr10!
+Missing character: There is no 要 (U+8981) in font cmr10!
+Missing character: There is no 部 (U+90E8) in font cmr10!
+Missing character: There is no 分 (U+5206) in font cmr10!
+Missing character: There is no ： (U+FF1A) in font cmr10!
+Missing character: There is no ① (U+2460) in font cmr10!
+Missing character: There is no 由 (U+7531) in font cmr10!
+Missing character: There is no 胡 (U+80E1) in font cmr10!
+Missing character: There is no 克 (U+514B) in font cmr10!
+Missing character: There is no 定 (U+5B9A) in font cmr10!
+Missing character: There is no 律 (U+5F8B) in font cmr10!
+Missing character: There is no 测 (U+6D4B) in font cmr10!
+Missing character: There is no 定 (U+5B9A) in font cmr10!
+Missing character: There is no 弹 (U+5F39) in font cmr10!
+Missing character: There is no 簧 (U+7C27) in font cmr10!
+Missing character: There is no 的 (U+7684) in font cmr10!
+Missing character: There is no 劲 (U+52B2) in font cmr10!
+Missing character: There is no 度 (U+5EA6) in font cmr10!
+Missing character: There is no 系 (U+7CFB) in font cmr10!
+Missing character: There is no 数 (U+6570) in font cmr10!
+Missing character: There is no ② (U+2461) in font cmr10!
+Missing character: There is no 研 (U+7814) in font cmr10!
+Missing character: There is no 究 (U+7A76) in font cmr10!
+Missing character: There is no 弹 (U+5F39) in font cmr10!
+Missing character: There is no 簧 (U+7C27) in font cmr10!
+Missing character: There is no 振 (U+632F) in font cmr10!
+Missing character: There is no 子 (U+5B50) in font cmr10!
+Missing character: There is no 的 (U+7684) in font cmr10!
+Missing character: There is no 振 (U+632F) in font cmr10!
+Missing character: There is no 动 (U+52A8) in font cmr10!
+Missing character: There is no 特 (U+7279) in font cmr10!
+Missing character: There is no 性 (U+6027) in font cmr10!
+Missing character: There is no ， (U+FF0C) in font cmr10!
+Missing character: There is no 验 (U+9A8C) in font cmr10!
+Missing character: There is no 证 (U+8BC1) in font cmr10!
+Missing character: There is no 周 (U+5468) in font cmr10!
+Missing character: There is no 期 (U+671F) in font cmr10!
+Missing character: There is no 公 (U+516C) in font cmr10!
+Missing character: There is no 式 (U+5F0F) in font cmr10!
+Missing character: There is no 。 (U+3002) in font cmr10!
+Missing character: There is no 在 (U+5728) in font cmr10!
+Missing character: There is no 测 (U+6D4B) in font cmr10!
+Missing character: There is no 量 (U+91CF) in font cmr10!
+Missing character: There is no 劲 (U+52B2) in font cmr10!
+Missing character: There is no 度 (U+5EA6) in font cmr10!
+Missing character: There is no 系 (U+7CFB) in font cmr10!
+Missing character: There is no 数 (U+6570) in font cmr10!
+Missing character: There is no 的 (U+7684) in font cmr10!
+Missing character: There is no 实 (U+5B9E) in font cmr10!
+Missing character: There is no 验 (U+9A8C) in font cmr10!
+Missing character: There is no 中 (U+4E2D) in font cmr10!
+Missing character: There is no ， (U+FF0C) in font cmr10!
+Missing character: There is no 不 (U+4E0D) in font cmr10!
+Missing character: There is no 断 (U+65AD) in font cmr10!
+Missing character: There is no 改 (U+6539) in font cmr10!
+Missing character: There is no 变 (U+53D8) in font cmr10!
+Missing character: There is no 砝 (U+781D) in font cmr10!
+Missing character: There is no 码 (U+7801) in font cmr10!
+Missing character: There is no 质 (U+8D28) in font cmr10!
+Missing character: There is no 量 (U+91CF) in font cmr10!
+Missing character: There is no ， (U+FF0C) in font cmr10!
+Missing character: There is no 测 (U+6D4B) in font cmr10!
+Missing character: There is no 量 (U+91CF) in font cmr10!
+Missing character: There is no 其 (U+5176) in font cmr10!
+Missing character: There is no 对 (U+5BF9) in font cmr10!
+Missing character: There is no 应 (U+5E94) in font cmr10!
+Missing character: There is no 的 (U+7684) in font cmr10!
+Missing character: There is no 弹 (U+5F39) in font cmr10!
+Missing character: There is no 簧 (U+7C27) in font cmr10!
+Missing character: There is no 形 (U+5F62) in font cmr10!
+Missing character: There is no 变 (U+53D8) in font cmr10!
+Missing character: There is no 量 (U+91CF) in font cmr10!
+Missing character: There is no ， (U+FF0C) in font cmr10!
+Missing character: There is no 再 (U+518D) in font cmr10!
+Missing character: There is no 根 (U+6839) in font cmr10!
+Missing character: There is no 据 (U+636E) in font cmr10!
+Missing character: There is no 胡 (U+80E1) in font cmr10!
+Missing character: There is no 克 (U+514B) in font cmr10!
+Missing character: There is no 定 (U+5B9A) in font cmr10!
+Missing character: There is no 律 (U+5F8B) in font cmr10!
+Missing character: There is no ， (U+FF0C) in font cmr10!
+Missing character: There is no 利 (U+5229) in font cmr10!
+Missing character: There is no 用 (U+7528) in font cmr10!
+Missing character: There is no 最 (U+6700) in font cmr10!
+Missing character: There is no 小 (U+5C0F) in font cmr10!
+Missing character: There is no 二 (U+4E8C) in font cmr10!
+Missing character: There is no 乘 (U+4E58) in font cmr10!
+Missing character: There is no 法 (U+6CD5) in font cmr10!
+Missing character: There is no ， (U+FF0C) in font cmr10!
+Missing character: There is no 拟 (U+62DF) in font cmr10!
+Missing character: There is no 合 (U+5408) in font cmr10!
+Missing character: There is no 出 (U+51FA) in font cmr10!
+Missing character: There is no 的 (U+7684) in font cmr10!
+Missing character: There is no 大 (U+5927) in font cmr10!
+Missing character: There is no 小 (U+5C0F) in font cmr10!
+Missing character: There is no ； (U+FF1B) in font cmr10!
+Missing character: There is no 在 (U+5728) in font cmr10!
+Missing character: There is no 验 (U+9A8C) in font cmr10!
+Missing character: There is no 证 (U+8BC1) in font cmr10!
+Missing character: There is no 弹 (U+5F39) in font cmr10!
+Missing character: There is no 簧 (U+7C27) in font cmr10!
+Missing character: There is no 振 (U+632F) in font cmr10!
+Missing character: There is no 动 (U+52A8) in font cmr10!
+Missing character: There is no 周 (U+5468) in font cmr10!
+Missing character: There is no 期 (U+671F) in font cmr10!
+Missing character: There is no 的 (U+7684) in font cmr10!
+Missing character: There is no 实 (U+5B9E) in font cmr10!
+Missing character: There is no 验 (U+9A8C) in font cmr10!
+Missing character: There is no 中 (U+4E2D) in font cmr10!
+Missing character: There is no ， (U+FF0C) in font cmr10!
+Missing character: There is no 也 (U+4E5F) in font cmr10!
+Missing character: There is no 不 (U+4E0D) in font cmr10!
+Missing character: There is no 断 (U+65AD) in font cmr10!
+Missing character: There is no 改 (U+6539) in font cmr10!
+Missing character: There is no 变 (U+53D8) in font cmr10!
+Missing character: There is no 砝 (U+781D) in font cmr10!
+Missing character: There is no 码 (U+7801) in font cmr10!
+Missing character: There is no 质 (U+8D28) in font cmr10!
+Missing character: There is no 量 (U+91CF) in font cmr10!
+Missing character: There is no ， (U+FF0C) in font cmr10!
+Missing character: There is no 将 (U+5C06) in font cmr10!
+Missing character: There is no 其 (U+5176) in font cmr10!
+Missing character: There is no 偏 (U+504F) in font cmr10!
+Missing character: There is no 离 (U+79BB) in font cmr10!
+Missing character: There is no 平 (U+5E73) in font cmr10!
+Missing character: There is no 衡 (U+8861) in font cmr10!
+Missing character: There is no 位 (U+4F4D) in font cmr10!
+Missing character: There is no 置 (U+7F6E) in font cmr10!
+Missing character: There is no 一 (U+4E00) in font cmr10!
+Missing character: There is no 定 (U+5B9A) in font cmr10!
+Missing character: There is no 距 (U+8DDD) in font cmr10!
+Missing character: There is no 离 (U+79BB) in font cmr10!
+Missing character: There is no ， (U+FF0C) in font cmr10!
+Missing character: There is no 记 (U+8BB0) in font cmr10!
+Missing character: There is no 录 (U+5F55) in font cmr10!
+Missing character: There is no 其 (U+5176) in font cmr10!
+Missing character: There is no 个 (U+4E2A) in font cmr10!
+Missing character: There is no 周 (U+5468) in font cmr10!
+Missing character: There is no 期 (U+671F) in font cmr10!
+Missing character: There is no 的 (U+7684) in font cmr10!
+Missing character: There is no 时 (U+65F6) in font cmr10!
+Missing character: There is no 间 (U+95F4) in font cmr10!
+Missing character: There is no ， (U+FF0C) in font cmr10!
+Missing character: There is no 再 (U+518D) in font cmr10!
+Missing character: There is no 次 (U+6B21) in font cmr10!
+Missing character: There is no 利 (U+5229) in font cmr10!
+Missing character: There is no 用 (U+7528) in font cmr10!
+Missing character: There is no 最 (U+6700) in font cmr10!
+Missing character: There is no 小 (U+5C0F) in font cmr10!
+Missing character: There is no 二 (U+4E8C) in font cmr10!
+Missing character: There is no 乘 (U+4E58) in font cmr10!
+Missing character: There is no 法 (U+6CD5) in font cmr10!
+Missing character: There is no ， (U+FF0C) in font cmr10!
+Missing character: There is no 拟 (U+62DF) in font cmr10!
+Missing character: There is no 合 (U+5408) in font cmr10!
+Missing character: There is no 出 (U+51FA) in font cmr10!
+Missing character: There is no 曲 (U+66F2) in font cmr10!
+Missing character: There is no 线 (U+7EBF) in font cmr10!
+Missing character: There is no ， (U+FF0C) in font cmr10!
+Missing character: There is no 验 (U+9A8C) in font cmr10!
+Missing character: There is no 证 (U+8BC1) in font cmr10!
+Missing character: There is no 了 (U+4E86) in font cmr10!
+Missing character: There is no 公 (U+516C) in font cmr10!
+Missing character: There is no 式 (U+5F0F) in font cmr10!
+Missing character: There is no 的 (U+7684) in font cmr10!
+Missing character: There is no 正 (U+6B63) in font cmr10!
+Missing character: There is no 确 (U+786E) in font cmr10!
+Missing character: There is no 性 (U+6027) in font cmr10!
+Missing character: There is no ， (U+FF0C) in font cmr10!
+Missing character: There is no 通 (U+901A) in font cmr10!
+Missing character: There is no 过 (U+8FC7) in font cmr10!
+Missing character: There is no 对 (U+5BF9) in font cmr10!
+Missing character: There is no 比 (U+6BD4) in font cmr10!
+Missing character: There is no 前 (U+524D) in font cmr10!
+Missing character: There is no 后 (U+540E) in font cmr10!
+Missing character: There is no 两 (U+4E24) in font cmr10!
+Missing character: There is no 个 (U+4E2A) in font cmr10!
+Missing character: There is no 实 (U+5B9E) in font cmr10!
+Missing character: There is no 验 (U+9A8C) in font cmr10!
+Missing character: There is no 得 (U+5F97) in font cmr10!
+Missing character: There is no 到 (U+5230) in font cmr10!
+Missing character: There is no 的 (U+7684) in font cmr10!
+Missing character: There is no 劲 (U+52B2) in font cmr10!
+Missing character: There is no 度 (U+5EA6) in font cmr10!
+Missing character: There is no 系 (U+7CFB) in font cmr10!
+Missing character: There is no 数 (U+6570) in font cmr10!
+Missing character: There is no ， (U+FF0C) in font cmr10!
+Missing character: There is no 更 (U+66F4) in font cmr10!
+Missing character: There is no 进 (U+8FDB) in font cmr10!
+Missing character: There is no 一 (U+4E00) in font cmr10!
+Missing character: There is no 步 (U+6B65) in font cmr10!
+Missing character: There is no 确 (U+786E) in font cmr10!
+Missing character: There is no 定 (U+5B9A) in font cmr10!
+Missing character: There is no 了 (U+4E86) in font cmr10!
+Missing character: There is no 整 (U+6574) in font cmr10!
+Missing character: There is no 个 (U+4E2A) in font cmr10!
+Missing character: There is no 实 (U+5B9E) in font cmr10!
+Missing character: There is no 验 (U+9A8C) in font cmr10!
+Missing character: There is no 的 (U+7684) in font cmr10!
+Missing character: There is no 合 (U+5408) in font cmr10!
+Missing character: There is no 理 (U+7406) in font cmr10!
+Missing character: There is no 性 (U+6027) in font cmr10!
+Missing character: There is no 和 (U+548C) in font cmr10!
+Missing character: There is no 正 (U+6B63) in font cmr10!
+Missing character: There is no 确 (U+786E) in font cmr10!
+Missing character: There is no 性 (U+6027) in font cmr10!
+Missing character: There is no 。 (U+3002) in font cmr10!
+Missing character: There is no 弹 (U+5F39) in font cmr10!
+Missing character: There is no 簧 (U+7C27) in font cmr10!
+Missing character: There is no 性 (U+6027) in font cmr10!
+Missing character: There is no 质 (U+8D28) in font cmr10!
+Missing character: There is no ， (U+FF0C) in font cmr10!
+Missing character: There is no 劲 (U+52B2) in font cmr10!
+Missing character: There is no 度 (U+5EA6) in font cmr10!
+Missing character: There is no 系 (U+7CFB) in font cmr10!
+Missing character: There is no 数 (U+6570) in font cmr10!
+Missing character: There is no ， (U+FF0C) in font cmr10!
+Missing character: There is no 周 (U+5468) in font cmr10!
+Missing character: There is no 期 (U+671F) in font cmr10!
+Missing character: There is no 公 (U+516C) in font cmr10!
+Missing character: There is no 式 (U+5F0F) in font cmr10!
+Missing character: There is no ， (U+FF0C) in font cmr10!
+Missing character: There is no 最 (U+6700) in font cmr10!
+Missing character: There is no 小 (U+5C0F) in font cmr10!
+Missing character: There is no 二 (U+4E8C) in font cmr10!
+Missing character: There is no 乘 (U+4E58) in font cmr10!
+Missing character: There is no 法 (U+6CD5) in font cmr10!
+])<G:/新建文件夹/fonts/type1/public/amsfonts/cm/cmmi10.pfb><G:/新建文
+件夹/fonts/type1/public/amsfonts/cm/cmr10.pfb><G:/新建文件夹/fonts/type1/
+public/amsfonts/cm/cmsy10.pfb>
+Output written on 未命名-1.pdf (1 page, 34722 bytes).
+
+PDF statistics: 18 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 131072)
+ 1 words of extra memory for PDF output out of 10000 (max. 100000000)
+
