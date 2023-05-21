@@ -1,9 +1,0 @@
-\contentsline {section}{\numberline {1}数据处理}{3}{section.1}%
-\contentsline {subsection}{\numberline {1.1}由胡克定律测定弹簧的劲度系数}{3}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}研究弹簧振子的振动特性，验证周期公式}{4}{subsection.1.2}%
-\contentsline {section}{\numberline {2}讨论}{5}{section.2}%
-\contentsline {subsection}{\numberline {2.1}一些数据的比较}{5}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}对于实验数据比较的思考和对实验本身的反思}{5}{subsection.2.2}%
-\contentsline {section}{\numberline {3}原始测量数据}{5}{section.3}%
-\contentsline {subsection}{\numberline {3.1}“由胡克定律测定弹簧的劲度系数”的原始数据}{5}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}“研究弹簧振子的振动特性，验证周期公式”的原始数据}{6}{subsection.3.2}%
