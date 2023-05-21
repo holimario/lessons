@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1591501745 source:c:\users\惠普\desktop\编程\计程设大作业\main.c
+	<stdio.h>
+	"../library_code/zylib.h"
+	"../library_code/zyrandom.h"
+	"../library_code/dynarray.h"
+	<stdlib.h>
+
+1448588560 c:\users\惠普\desktop\编程\library_code\zylib.h
+	<stddef.h>
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1448588560 c:\users\惠普\desktop\编程\library_code\zyrandom.h
+	"zylib.h"
+
+1169984458 c:\users\惠普\desktop\编程\library_code\dynarray.h
+
+1170680798 source:c:\users\惠普\desktop\编程\library_code\dynarray.c
+	"zylib.h"
+	"dynarray.h"
+
+1520862954 source:c:\users\惠普\desktop\编程\library_code\zylib.c
+	<stddef.h>
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"zylib.h"
+
+1448588560 source:c:\users\惠普\desktop\编程\library_code\zyrandom.c
+	<stdlib.h>
+	<time.h>
+	"zyrandom.h"
+	"zylib.h"
+
+1170680798 source:c:\users\惠普\desktop\计程设大作业\library_code\dynarray.c
+	"zylib.h"
+	"dynarray.h"
+
+1448588560 c:\users\惠普\desktop\计程设大作业\library_code\zylib.h
+	<stddef.h>
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1169984458 c:\users\惠普\desktop\计程设大作业\library_code\dynarray.h
+
+1520862954 source:c:\users\惠普\desktop\计程设大作业\library_code\zylib.c
+	<stddef.h>
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"zylib.h"
+
+1448588560 source:c:\users\惠普\desktop\计程设大作业\library_code\zyrandom.c
+	<stdlib.h>
+	<time.h>
+	"zyrandom.h"
+	"zylib.h"
+
+1448588560 c:\users\惠普\desktop\计程设大作业\library_code\zyrandom.h
+	"zylib.h"
+
+1591514682 source:c:\users\惠普\desktop\计程设大作业\计程设大作业\main.c
+	<stdio.h>
+	"../library_code/zylib.h"
+	"../library_code/zyrandom.h"
+	"../library_code/dynarray.h"
+	<stdlib.h>
+
