@@ -1,0 +1,67 @@
+{
+  "routers": ["u", "v", "w", "x", "y", "z"],
+  "clients": ["A", "B", "C"],
+  "clientSendRate": 5,
+  "endTime": 200,
+
+  "links": [
+    ["u", "A", 1, 1, 1, 1],
+    ["u", "w", 2, 6, 5, 5],
+    ["u", "v", 3, 1, 2, 2],
+    ["u", "x", 4, 1, 1, 1],    
+    ["v", "x", 2, 2, 2, 2],
+    ["v", "w", 3, 1, 3, 3],
+    ["w", "x", 2, 3, 3, 3],
+    ["w", "y", 3, 2, 1, 1],
+    ["w", "z", 4, 2, 5, 5],
+    ["w", "C", 5, 1, 1, 1],
+    ["x", "y", 4, 1, 1, 1],
+    ["y", "z", 3, 1, 2, 2],
+    ["z", "B", 3, 1, 1, 1]
+    ],
+  "changes": [
+    [5, ["w", "y"], "down"]
+  ],
+
+  
+  "correctRoutes": [
+    ["A", "u", "A"],
+    ["A", "u", "x", "y", "z", "B"],
+    ["A", "u", "x", "w", "C"],
+
+    ["B", "z", "B"],
+    ["B", "z", "w", "C"],
+    ["B", "z", "y", "x", "u", "A"],
+ 
+    ["C", "w", "C"],
+    ["C", "w", "x", "u", "A"],
+    ["C", "w", "z", "B"]
+  ],
+
+
+  "visualize": {
+    "gridSize": 4,
+    "locations": {
+      "A": [0,0],
+      "B": [3,2],
+      "C": [3,0],
+      "u": [0,1],
+      "v": [1,0],
+      "w": [2,0],
+      "x": [1,2],
+      "y": [2,2],
+      "z": [3,1]
+    },
+    "canvasWidth": 800,
+    "canvasHeight": 800,
+    "timeMultiplier": 20,
+    "latencyCorrection": 1.5,
+    "animateRate": 40,
+    "routerColor": "red",
+    "clientColor": "DodgerBlue2",
+    "lineColor": "orange",
+    "inactiveColor": "gray",
+    "lineWidth": 6,
+    "lineFontSize": 16
+  }
+}
